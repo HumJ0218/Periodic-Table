@@ -1,0 +1,16 @@
+﻿标题：Avenir Next DemiBold Italic
+
+「注：相对原子质量...」：思源宋体 ExtraLight
+
+「原子序数」等：思源宋体 SemiBold
+
+「黑 - 普通」等：思源宋体 Regular
+
+「碱金属」等：思源宋体 Regular
+
+右上角两个图：Avenir Next Medium
+
+正文：中文全部思源黑体 Normal
+序数符号电子排布原子量全部Avenir Next Medium
+元素名称全部Avenir Next Condensed Medium
+拼音全部Source Sans Pro Regular
